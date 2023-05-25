@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684422102 source:c:\users\nadia\desktop\c++\lab9\main.cpp
+	<iostream>
+	"Ttime.h"
+
+1684421183 c:\users\nadia\desktop\c++\lab9\include\ttime.h
+	<iostream>
+
+1684422185 source:c:\users\nadia\desktop\c++\lab9\src\ttime.cpp
+	"Ttime.h"
+	<iostream>
+

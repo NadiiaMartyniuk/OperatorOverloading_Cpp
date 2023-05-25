@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1684455189 source:c:\users\nadia\desktop\c++\lab 9 cala\lab9.2-liczbyzespolone\main.cpp
+	<iostream>
+	"Tzespolona.h"
+	<iomanip>
+
+1684454826 c:\users\nadia\desktop\c++\lab 9 cala\lab9.2-liczbyzespolone\include\tzespolona.h
+	<iostream>
+
+1684455001 source:c:\users\nadia\desktop\c++\lab 9 cala\lab9.2-liczbyzespolone\src\tzespolona.cpp
+	"Tzespolona.h"
+	<iostream>
+

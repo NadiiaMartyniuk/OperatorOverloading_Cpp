@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1684456573 source:c:\users\nadia\desktop\c++\lab 9 cala\lab9.3\main.cpp
+	<iostream>
+	"Tstudent.h"
+	"Tosoba.h"
+
+1684457488 c:\users\nadia\desktop\c++\lab 9 cala\lab9.3\include\tstudent.h
+	<iostream>
+	"Tosoba.h"
+
+1684457092 c:\users\nadia\desktop\c++\lab 9 cala\lab9.3\include\tosoba.h
+	<iostream>
+	<string>
+
+1684457092 source:c:\users\nadia\desktop\c++\lab 9 cala\lab9.3\src\tosoba.cpp
+	"Tosoba.h"
+	<iostream>
+
+1684457488 source:c:\users\nadia\desktop\c++\lab 9 cala\lab9.3\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	"Tosoba.h"
+	<string>
+
